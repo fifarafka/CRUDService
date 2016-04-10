@@ -1,0 +1,4 @@
+\\psf\home\documents\visual studio 2015\Projects\CRUDService\ObjectManager.Interfaces.Movies\bin\Debug\ObjectManager.Interfaces.Movies.dll
+\\psf\home\documents\visual studio 2015\Projects\CRUDService\ObjectManager.Interfaces.Movies\bin\Debug\ObjectManager.Interfaces.Movies.pdb
+\\psf\home\documents\visual studio 2015\Projects\CRUDService\ObjectManager.Interfaces.Movies\obj\Debug\ObjectManager.Interfaces.Movies.dll
+\\psf\home\documents\visual studio 2015\Projects\CRUDService\ObjectManager.Interfaces.Movies\obj\Debug\ObjectManager.Interfaces.Movies.pdb

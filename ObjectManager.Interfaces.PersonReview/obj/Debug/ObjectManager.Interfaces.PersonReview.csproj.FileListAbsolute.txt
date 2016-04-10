@@ -1,0 +1,1 @@
+\\psf\home\documents\visual studio 2015\Projects\CRUDService\ObjectManager.Interfaces.PersonReview\obj\Debug\ObjectManager.Interfaces.PersonReview.csprojResolveAssemblyReference.cache
